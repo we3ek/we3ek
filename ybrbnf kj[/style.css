@@ -1,0 +1,25 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+}
+
+section{
+	max-width: 850px;
+	border: 1px solid red;
+	margin: 25px auto;
+}
+
+.text-center{
+	text-align: center;
+}
+
+.block{
+	width: 75px;
+	height: 75px;
+	border: 1px solid black;
+	display: inline-block;
+}
+
+hr{
+	clear: both;
+}
